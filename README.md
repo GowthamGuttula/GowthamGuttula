@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GowthamGuttula
-- 👀 I’m interested in coding, software development
-- 🌱 I’m currently learning on improving my skills on various technologies (Java, Microservices, DS, Algo, Database, Designing), to gain indepth knowledge
+- 👀 I like coding and passionate about new technologies. I have good exposure on Java, Microservices, Angular, Hibernate, Oracle
+- 🌱 Now, Focusing on becoming a better version of myself by improving skills on logic decision, good grasp on DSA, System Designing and Design patterns.
 - 💞️ I’m looking to collaborate on web projects, java projects, software development
 - 📫 Reach me at gowtham.guttula@gmail.com
 
